@@ -1,3 +1,5 @@
-O projeto trata do cálculo de consumo inteligente para o cliente,
-a linguagem de programação utilizada foi python, e
-a formula é a mesma usada em fisica para calcular o consumo de um equipamento em Kwhs.
+CONSUMO-INTELIGENTE
+este projeto foi criado para ajudar os clinte a fazerem o consumo inteligente de seus equipamentos eletronicos
+O programa é de facil execução, o cliente entra com os dados e o proprio programa o executa
+o programa perguntara o tipo de aparelho, a voltagem, o tempo diario de uso e informara o consumo mensal.
+a linguagem de programação utilizada e python
